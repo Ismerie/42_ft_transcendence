@@ -1,5 +1,5 @@
 # 42_ft_transcendence
-42_ft_transcendence est le dernier projet du tronc commun de l'école 42. Ce projet consiste à créer un site web SPA (Single Page Application) permettant de jouer au **jeu Pong** en mode 1 vs 1 ou en mode Tournoi.
+42_ft_transcendence est le dernier projet du tronc commun de l'école 42. Ce projet consiste à créer un site web SPA (Single Page Application) permettant de jouer au **jeu Pong** en mode 1 vs 1 ou en mode Tournoi.  
 Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier)
 
 ## 📋 Fonctionnalités
@@ -48,6 +48,22 @@ Modules choisis :
 | 0.5    | 📱 Accessibilité        | Support sur tous types d'appareil  | Compatible ordinateur, tablette, smartphone (tactile)                                                              |
 | 0.5    | 📱 Accessibilité        | Compatibilité navigateurs web      | Fonctionne sur Chrome, Firefox, ect..                                                                              |
 
+## Aperçus
 
+### Menu
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_menu.jpg)
+### Statistiques
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_stats.jpg)
+### Liste d'amis
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_friends.jpg)
+### Historique
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_history.jpg)
+### Profil
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_profil.jpg)
+### Notifications
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_notif.jpg)
+### Paramètres
+![alt-text](https://github.com/Ismerie/42_ft_transcendence/blob/master/preview/view_parameters.jpg)
+### Jeu
 
 ## 🛠️ Usage
