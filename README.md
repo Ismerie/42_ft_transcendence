@@ -33,8 +33,8 @@ Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/Thibau
 - [x] Système de matchmaking
 
 ## 📚 Les Modules
-Pour améliorer notre site web nous devions choisir parmis une vaste liste de module (Web, Gestion Utilisateur, IA-Algo, Cybersécurité, Devops, Graphiques, Accessibilité, Orienté objet).  
-Chaque module vaut soit 1 ou 0.5 point. Nous devions implémenter une valeur de 7 pts.
+Pour améliorer notre site web nous devions choisir parmi une vaste liste de modules (Web, Gestion Utilisateur, IA-Algo, Cybersécurité, Devops, Graphiques, Accessibilité, Orienté objet).  
+Chaque module vaut soit 1 ou 0.5 point. Nous devions implémenter une valeur de 7 pts.  
 Modules choisis : 
 | Valeur |  Thèmes                |Modules                             | Descriptions                                                                                                       |
 | ------ | ---------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -43,7 +43,7 @@ Modules choisis :
 | 0.5    | 🌐 Web                 | Base de données                    | Avoir une bdd et utiliser **PostegreSQL**                                                                          |
 | 1      | 👤 Gestion utilisateur | Gestion utilisateur standard       | Authentification, amis, historique, stats...                                                                       |
 | 1      | 👤 Gestion utilisateur | Joueurs à distance                 | 2 joueurs peuvent s'affronter sur la même partie sur 2 ordis différents                                            |
-| 1      | 🚨 Cybersécurité       | 2FA et JWT                         | Possibilité d'avoir le 2FA pour utilsateur et utiliser les JWT comme méthodes d'authentification et d'autorisation |
+| 1      | 🚨 Cybersécurité       | 2FA et JWT                         | Possibilité d'avoir le 2FA pour utilisateur et utiliser les JWT comme méthodes d'authentification et d'autorisation|
 | 1      | 🎨 Graphique           | Techniques avancées 3D             | Amélioration du visuel du jeu en utilisant **Three.js**                                                            |
 | 0.5    | 📱 Accessibilité        | Support sur tous types d'appareil  | Compatible ordinateur, tablette, smartphone (tactile)                                                              |
 | 0.5    | 📱 Accessibilité        | Compatibilité navigateurs web      | Fonctionne sur Chrome, Firefox, ect..                                                                              |
