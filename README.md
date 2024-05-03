@@ -19,7 +19,7 @@ Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/Thibau
 ### 📍 Exigences Obligatoires
 ### SPA
 - [x] Site Web dynamique avec une seule page Web **(SPA)** en **Javascript natif**
-- [x] Utilisateur doit pouvoir utiliser les boutons ```back``` ⬅ et ```forward``` ➡ du navigateur
+- [x] Utilisateur doit pouvoir utiliser les boutons ⬅ ```back``` et  ➡ ```forward``` du navigateur
 - [x] Compatible avec la dernière version de Chrome
 - [x] Aucune erreur ou avertissement dans la console
 ### Sécurité
@@ -32,7 +32,7 @@ Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/Thibau
 - [x] Mode 1 vs 1 et mode Tournoi
 - [x] Système de matchmaking
 
-## Les Modules
+## 📚 Les Modules
 Pour améliorer notre site web nous devions choisir parmis une vaste liste de module (Web, Gestion Utilisateur, IA-Algo, Cybersécurité, Devops, Graphiques, Accessibilité, Orienté objet).  
 Chaque module vaut soit 1 ou 0.5 point. Nous devions implémenter une valeur de 7 pts.
 Modules choisis : 
