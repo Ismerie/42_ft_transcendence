@@ -1,6 +1,6 @@
 # 42_ft_transcendence
 42_ft_transcendence est le dernier projet du tronc commun de l'école 42. Ce projet consiste à créer un site web SPA (Single Page Application) permettant de jouer au **jeu Pong** en mode 1 vs 1 ou en mode Tournoi.  
-Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier)
+Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier) et [@tuturbo](https://github.com/tuturbo)
 
 ## 📋 Fonctionnalités
 
